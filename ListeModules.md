@@ -1,6 +1,6 @@
 # Astrophysique
  Variable (type) | Planète | Astéroïde | Objet artificiel | Comète | Etoile | Nébuleuse | Nuage stellaire | Amas stellaire | Trou noir 
- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------
+----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------
 Type (Liste) | x | x | x | x | x | x | x | x | x | 
 Nom (Texte court) | x | x | x | x | x | x | x | x | x | 
 Système d'appartenance (Liste) | x | x | x | x | x |   |   |   |   | 
