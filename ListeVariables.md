@@ -36,3 +36,24 @@ Niveau économique (Texte long) | x |   | x |
 Espérance de vie (Nombre) |   | x |   |
 Particularités (Texte long) | x | x | x |
 Commentaire (Texte long) | x | x | x | 
+
+# Technologie
+ Variable (type) | Communications | Transport | Vaisseaux | Robots  
+----------- | ----------- | ----------- | ----------- | ----------- 
+Nom (Texte court) | x | x | x | x | 
+Type d'objet (Liste) | x | x | x | x | 
+Dimensions (Texte court) | x | x | x | x | 
+Origine (Texte court) | x | x | x | x | 
+Histoire (Texte long) | x | x | x | x | 
+Puissance (Texte court) |   | x | x |   | 
+Vitesse (Texte court) |   | x | x | x | 
+Tonnage (Texte court) |   | x |   |   | 
+Capacités (Texte court) |   | x | x | x |
+Description (Texte long) | x | x | x | x | 
+Equipement principal (Texte court) |   | x | x | x | 
+Distance d'utilisation (Texte court) | x |   |   | x | 
+Autonomie (Texte court) | x | x | x | x | 
+Carburant (Texte court) | x | x | x | x | 
+Solidité/fragilité (Texte long) | x | x | x | x | 
+Particularités (Texte long) | x | x | x | x | 
+Commentaire (Texte long) | x | x | x | x | 
