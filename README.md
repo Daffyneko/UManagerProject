@@ -12,3 +12,4 @@ Les modules présenteront des fiches descriptives pour chaque objet, race, peupl
 Pour les listes, l'utilisateur pourra ajouter, modifier et supprimer les choix de plusieurs manières : soit en passant par le menu principal du logiciel, soit par une option affichée à la fin ou en début de liste, ce qui ouvrira une petite fenêtre présentant les choix déjà enregistrés ainsi que leur description et un bouton permettant d'ajouter un choix et sa description sommaire.
 
 ## Solution proposée pour répondre au besoin
+Un logiciel de gestion de base de données, avec une interface claire pour les non informaticiens, devrait être à même de répondre à ces besoins précis.
