@@ -20,3 +20,19 @@ Histoire (Texte long) | x | x | x | x | x | x | x | x |
 Particularités (Texte long) | x | x | x | x | x | x | x | x | 
 
 *Note : pour les compositions chimiques, s'inspirer du tableau périodique des éléments, avec classification en métaux lourds, légers, gaz....).*
+
+# Spaciopolitique
+ Variable (type) | Peuples | Races | Factions  
+----------- | ----------- | ----------- | ----------- 
+Nom (Texte court) | x | x | x | 
+Planète d'origine (Liste) | x | x | x |
+Planète mère (Liste) | x | x | x |
+Langues (Liste à choix multiples) | x | x | x |
+Type de gouvernement (Liste) | x |   | x | 
+Culture (Texte long) | x | x | x |
+Races (Liste à choix multiples) | x |   | x | 
+Niveau technologique (Texte long) | x |   | x |   |   |   |   |   | 
+Niveau économique (Texte long) | x |   | x |
+Espérance de vie (Nombre) |   | x |   |
+Particularités (Texte long) | x | x | x |
+Commentaire (Texte long) | x | x | x | 
