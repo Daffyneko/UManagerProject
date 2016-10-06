@@ -46,6 +46,7 @@ Dimensions (Texte court) | x | x | x | x |
 Origine (Texte court) | x | x | x | x | 
 Histoire (Texte long) | x | x | x | x | 
 Puissance (Texte court) |   | x | x |   | 
+Vitesse (Texte court) |   | x | x | x | 
 Tonnage (Texte court) |   | x |   |   | 
 Capacités (Texte court) |   | x | x | x |
 Description (Texte long) | x | x | x | x | 
